@@ -51,3 +51,12 @@ data/sample_user_data.csv
 - Add cohort-based retention analysis
 - Enhance dashboards with additional insights
 
+  ## Dashboard Visuals
+
+### Daily Active Users (DAU)
+![DAU Chart](dashboard/DAU_chart.png)
+
+### Monthly Active Users (MAU)
+![MAU Chart](dashboard/MAU_chart.png)
+
+
