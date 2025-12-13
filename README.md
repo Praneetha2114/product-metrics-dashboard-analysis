@@ -25,3 +25,29 @@ The dataset contains simulated user activity data with the following fields:
 - `action`: Type of action performed (signup, login, purchase)
 
 File location:
+data/sample_user_data.csv
+
+
+## Analysis Approach
+- Loaded the dataset into Excel
+- Cleaned and formatted date fields
+- Calculated DAU and MAU using pivot tables
+- Analyzed repeat activity to understand retention
+- Identified conversion from signup to purchase
+- Created simple charts to visualize trends
+
+## Tools Used
+- Microsoft Excel
+- GitHub
+
+## Key Learnings
+- How product metrics reflect user engagement
+- How to structure data for analysis
+- How to communicate insights clearly using dashboards
+- Importance of retention and conversion in product decision-making
+
+## Next Steps
+- Improve the dataset with more users and time periods
+- Add cohort-based retention analysis
+- Enhance dashboards with additional insights
+
